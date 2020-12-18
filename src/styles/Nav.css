@@ -7,6 +7,8 @@
   margin: 0 auto;
   justify-content: center;
   align-items: flex-start;
+  background-color: #BAB2B5;
+  max-height: 100px;
 }
 
 .search-area {
